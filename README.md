@@ -2,7 +2,8 @@
 
 This project is a form validation system implemented using Laravel, a popular PHP framework. The system ensures that user inputs meet specific criteria before being processed or stored, enhancing the integrity and security of the data.
 
-![form]("![form](https://github.com/user-attachments/assets/841c4ea5-2456-4a36-926c-e04aacdf3b74)")
+![form](https://github.com/user-attachments/assets/841c4ea5-2456-4a36-926c-e04aacdf3b74)
+
 
 ## Features
 
